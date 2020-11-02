@@ -12,3 +12,4 @@
 <li>php artisan serve (ถ้าเซิฟเวอร์ถูกรับบน port 8000 เเล้วก็ทำการไปที่ , <a href="http://127.0.0.1:8000" rel="nofollow">http://127.0.0.1:8000</a> ได้เลย) 
  </li>
 </ol>
+# laravel2681
